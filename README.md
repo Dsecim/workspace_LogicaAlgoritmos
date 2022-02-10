@@ -6,3 +6,6 @@
 
 ## Tecnologias 
     - Python3
+    
+## Observações
+    - Orietação objeto em alguns exercícios do desafio1
