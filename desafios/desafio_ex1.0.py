@@ -88,4 +88,5 @@ class Time:
     def escreve_ex1(self) -> str:
         return f'O time {self.xxx} está com {self.yyy} pontos'
     
+    
         
