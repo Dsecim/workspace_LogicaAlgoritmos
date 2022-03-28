@@ -11,4 +11,8 @@
         - QUESTAO2
 
 ## Tecnologias 
-    - [ ] Python3
+    - Python3
+    
+## Observações
+    - Orietação objeto em alguns exercícios do desafio1
+    - Abstração de objetos com propriedades e métodos
