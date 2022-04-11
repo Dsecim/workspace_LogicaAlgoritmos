@@ -9,6 +9,14 @@
     - [ ] TP3
         - QUESTAO1
         - QUESTAO2
+    - [ ] ASSESSMENT
+        - QUESTAO3
+        - QUESTAO4
+        - QUESTAO5 
+            - Funcionalidades implemnetadas:
+                - [ ] valida_dados
+                    - Informa o PIB relativo ao pais no ano informados
+                    - valida se os dados existem dentro da tabela
 
 ## Tecnologias 
     - Python3
